@@ -39,7 +39,9 @@ function About() {
             projetos frontend, e estou em constante evolução profissional,
             cursando Análise de Sistemas de Computação na Anhanguera
             Educacional, com previsão de término em 2027. Possuo também
-            certificações voltadas para APIs em NodeJS e desenvolvimento Java.
+            certificações voltadas para APIs em NodeJS e desenvolvimento Java e
+            busco sempre entregar soluções práticas e eficientes, com foco em
+            qualidade de código, escalabilidade e boa experiência do usuário.
           </CardDescription>
         </Card>
       </div>

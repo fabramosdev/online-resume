@@ -4,7 +4,7 @@ import { ModeToggle } from "../ThemeSelect";
 
 function Header() {
   return (
-    <div className="flex-col laptop:flex-row ">
+    <div className="flex-col laptop:flex-row">
       <div className="absolute right-3.5 top-3.5">
         <ModeToggle />
       </div>
