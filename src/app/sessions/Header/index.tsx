@@ -25,6 +25,30 @@ function Header() {
           <p className="flex justify-center text-sm bp2:ml-6 bp2:justify-start bp2:text-[16px]">
             React | React Native | NodeJS | Elixir
           </p>
+          <p className="flex justify-center text-sm bp2:ml-6 bp2:justify-start bp2:text-[16px]">
+            <a
+              href="https://wa.me/5521976722755"
+              target="_blank"
+              className="hover:text-blue-600"
+            >
+              (21)976722755
+            </a>
+            |
+            <a
+              href="mailto:fabianosantosramos1978@gmail.com"
+              className="hover:text-blue-600"
+            >
+              fabianosantosramos1978@gmail.com
+            </a>
+            |{" "}
+            <a
+              href="https://www.linkedin.com/in/fabiano-ramos-dev/"
+              target="_blank"
+              className="hover:text-blue-600"
+            >
+              LinkedIn
+            </a>
+          </p>
         </div>
       </div>
     </div>

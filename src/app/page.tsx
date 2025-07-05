@@ -2,7 +2,7 @@ import { ThemeProvider } from "@/app/components/theme-provider";
 import { Header } from "./sessions/Header";
 import { About } from "./sessions/About";
 import { Skills } from "./sessions/Skills";
-// import { Employees } from "./sessions/Employees";
+import { Employees } from "./sessions/Employees";
 
 export default function Home() {
   return (
@@ -15,6 +15,7 @@ export default function Home() {
       <Header />
       <About />
       <Skills />
+      <Employees />
     </ThemeProvider>
   );
 }

@@ -7,10 +7,10 @@ function About() {
         <Card className="p-5">
           <CardTitle>Sobre</CardTitle>
           <CardDescription>
-            Sou desenvolvedor com experiência sólida em projetos mobile, web e
-            backend, atuando com tecnologias como React, React Native, NodeJS,
-            NestJS, Strapi e Elixir. Tenho histórico de contribuição em grandes
-            empresas como o{" "}
+            Sou desenvolvedor com experiência em projetos mobile, web e backend,
+            atuando com tecnologias como React, React Native, NodeJS, NestJS,
+            Strapi e Elixir. Tenho histórico de contribuição em grandes empresas
+            como o{" "}
             <a
               href="https://www.somagrupo.com.br/"
               target="_blank"
