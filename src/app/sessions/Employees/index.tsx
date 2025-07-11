@@ -7,7 +7,7 @@ function Employees() {
       period: "jan/2023...",
       func: "Fullstack Developer",
       resume:
-        "Atuando como Freelance em projetos pontuais de frontend para o cliente Rubbercon Solutions, JMG Acessoria, Catedral Metropolitana do Rio de Janeiro.",
+        "Atuando como freelancer em projetos pontuais de frontend para o cliente Rubbercon Solutions, JMG Acessoria, Catedral Metropolitana do Rio de Janeiro.",
     },
     {
       name: "Grupo SOMA de Moda LTDA",
